@@ -1,0 +1,5 @@
+{{#user}}
+Name: Nandhini L R
+Skills: HTML, CSS, JS, React.js
+Email: nandhini24.lr@gmail.com
+{{/user}}
